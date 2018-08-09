@@ -6,194 +6,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/out/production/Array/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/out/production/Array/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/out/production/Array/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Array/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST1$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/BST1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/out/production/BST/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/src/BST1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BST/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListWithRecursion$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/LinkedListWithRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Solution5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/LinkedListWithRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Solution5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/Map.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/BSTMap$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/BSTMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/FileOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/LinkedListMap$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/LinkedListMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Map.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/out/production/Map/Solution1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/pride-and-prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/BSTMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/LinkedListMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Map/src/Solution1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/MaxHeap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/MaxHeap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/PriorityQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Solution$Freq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Solution2$Freq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/out/production/MaxHeap/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MaxHeap/src/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/LinkedListQueue$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/LinkedListQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/LoopQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/LoopQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegmentTree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/Merger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/NumArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/NumArray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/NumArray3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SegmentTree/SegmentTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumArray3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/Set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/a-tale-of-two-cities.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BST$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/BSTSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/FileOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/LinkedListSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/Set.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/out/production/Set/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/pride-and-prejudice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/BSTSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/LinkedListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Set/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/ArrayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/LinkedListStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/src/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -354,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="947" />
-    <option name="y" value="11" />
+    <option name="x" value="393" />
+    <option name="y" value="43" />
     <option name="width" value="1854" />
     <option name="height" value="1399" />
   </component>
@@ -389,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533845459642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533846312640" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -469,15 +282,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533800089338</updated>
-      <workItem from="1533800092612" duration="10820000" />
+      <workItem from="1533800092612" duration="11496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10820000" />
+    <option name="totallyTimeSpent" value="11496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="9" width="1483" height="1119" extended-state="0" />
+    <frame x="315" y="35" width="1483" height="1119" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
